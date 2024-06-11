@@ -112,7 +112,7 @@ def readSpecificLine(filePath, lineNumber):
     
 
 def getQuote():
-    filePath = '../Writings/Quotes/quotes.txt'
+    filePath = './Writings/Quotes/quotes.txt'
     lineNumber = random.randint(1, 95) 
     result = readSpecificLine(filePath, lineNumber)
     return result
