@@ -16,7 +16,7 @@ if choose == "Why This?":
 elif choose == "Few Learnings":
     #Arguments: uniqueKey, coverImageUrl, heading, metaDescription, contentPath
     #writing 1: 
-    displayWriting("FL1", 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfNYJaz-Zsj6f0Jbqv8ZIE8LkPdaJdyhtJQ&s', 'Rashmirathi : Part 1', 'The first article of the series that explores the great epic **Rashmirathi** by Ramdhari Singh Dinkar, delving into its Philiterary themes, offering insights into duty, morality, and the complexities of the Mahabharata character, Karna.', '../Writings/Few Learnings/krishna.html')
+    displayWriting("FL1", 'https://raw.githubusercontent.com/imsanketsingh/Tat-Tvam-Asi/main/Images/krishna.jpg?token=GHSAT0AAAAAACTI3SZHBVWI4PNNLZRXXANGZTIMPHA', 'Rashmirathi : Part 1', 'The first article of the series that explores the great epic **Rashmirathi** by Ramdhari Singh Dinkar, delving into its Philiterary themes, offering insights into duty, morality, and the complexities of the Mahabharata character, Karna.', '../Writings/Few Learnings/krishna.html')
     
 ##########################################################################################################################################################
 
