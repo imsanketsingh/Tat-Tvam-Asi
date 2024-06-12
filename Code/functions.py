@@ -118,7 +118,7 @@ def getQuote():
     return result
 
 def message():
-    return '   From ignorance towards light: A meaningful start', """<blockquote>
+    return 'From ignorance towards light: A meaningful start', """<blockquote>
     <p><span style="text-shadow: rgba(136, 136, 136, 0) 0px 0px 0px; color: rgb(251, 160, 38);">It all starts with the realization that something needs to be corrected in my life. Anyone would need this realization to explore this path of knowledge. It could be anything from anxiety to adventure, and from fear to regret that pushes us to know the reality of self. This simple realization is the first breakthrough in the broader and most important of all knowledge, self-realization.</span></p>
 </blockquote>
 <blockquote>
