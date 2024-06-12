@@ -27,7 +27,7 @@ elif choose == "Great Learners":
 ##########################################################################################################################################################
 
 elif choose == "Miscellaneous": 
-        displayWriting("M1", 'https://raw.githubusercontent.com/imsanketsingh/Tat-Tvam-Asi/main/Images/krishna.jpg?token=GHSAT0AAAAAACTI3SZHDKV3JNJ2KMKALBD4ZTIMR4A', 'The Krishna of Dwarika and The Krishna of Mathura', "Exploring the distinct aspects of Lord Krishna's life and teachings in Dwarika and Mathura. Trying to understand the differences and significance of Krishna's roles in these two sacred cities.", './Writings\Miscellaneous\krishnaOfDwarikaAndMathura.html')
+        displayWriting("M1", 'https://raw.githubusercontent.com/imsanketsingh/Tat-Tvam-Asi/main/Images/krishna.jpg?token=GHSAT0AAAAAACTI3SZHDKV3JNJ2KMKALBD4ZTIMR4A', 'The Krishna of Dwarika and The Krishna of Mathura', "Exploring the distinct aspects of Lord Krishna's life and teachings in Dwarika and Mathura. Trying to understand the differences and significance of Krishna's roles in these two sacred cities.", './Writings/Miscellaneous/krishnaOfDwarikaAndMathura.html')
 
 ##########################################################################################################################################################
 
