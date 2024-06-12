@@ -118,8 +118,12 @@ def getQuote():
     return result
 
 def message():
-    return 'From ignorance towards light: A meaningful start', """<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In a metus dictum, fringilla nibh quis, maximus sapien. Suspendisse sit amet metus ornare, commodo erat sit amet, elementum est. Pellentesque sit amet odio accumsan, viverra urna eu, euismod ex. In a lacus sed nisi ullamcorper convallis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce facilisis metus nibh, vel facilisis justo sagittis vitae. Nulla sed ornare tortor. Sed ut molestie ipsum, eu consectetur ante. Fusce semper sit amet libero sed pellentesque.
-
-Sed nec risus sem. Ut ac eros non lectus vulputate mollis ut sit amet orci. Curabitur ornare tellus ultrices ultricies finibus. Sed quis elementum orci. Etiam tempor a mauris a venenatis. Etiam volutpat nibh dictum facilisis porttitor. Quisque tristique purus pretium lacus gravida, id rutrum felis tincidunt. Mauris vitae leo arcu. Nunc consequat tempor vestibulum. Vivamus cursus lorem odio, sit amet mollis turpis sagittis sit amet. Nam vel turpis dolor. Nam ultrices, augue eu pulvinar feugiat, ante dolor ultrices erat, vitae accumsan ante ligula sit amet sapien. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vestibulum bibendum justo id posuere fringilla.
-
-Quisque imperdiet at mauris pellentesque posuere. Aenean aliquet faucibus laoreet. Cras consectetur odio sit amet mauris commodo, non ullamcorper mauris rhoncus. Donec leo massa, dapibus ac turpis sed, convallis pellentesque magna. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In hac habitasse platea dictumst.</p>"""
+    return 'From ignorance towards light: A meaningful start', """<blockquote>
+    <p><span style="text-shadow: rgba(136, 136, 136, 0.65) 0px -23px 11px; color: rgb(251, 160, 38);">It all starts with the realization that something needs to be corrected in my life. Anyone would need this realization to explore this path of knowledge. It could be anything from anxiety to adventure, and from fear to regret that pushes us to know the reality of self. This simple realization is the first breakthrough in the broader and most important of all knowledge, self-realization.</span></p>
+</blockquote>
+<blockquote>
+    <p><span style="text-shadow: rgba(136, 136, 136, 0.65) 0px -23px 11px; color: rgb(251, 160, 38);">Overcoming the burdens of the mind is very tough. You seek help from the ultimate, you pray, you explore possibilities of knowing. Amid all this, you constantly fight with yourself, your fears, your insecurities, and you are so confused with your life and what&apos;s happening to it. You sometimes get the feeling that you should renounce everything, but you stay there, believing in.</span></p>
+</blockquote>
+<blockquote>
+    <p><span style="text-shadow: rgba(136, 136, 136, 0.65) 0px -23px 11px; color: rgb(251, 160, 38);">You hope that one day you will get connected with that one unifying consciousness that is the ultimate, and that will be the liberation. Liberation from the difficulties of the mind. </span><span style="text-shadow: rgba(136, 136, 136, 0.65) 0px -23px 11px; color: rgb(251, 160, 38);">You try to follow the words of sages and you find that you are already connected and you just don&apos;t have the realization, and hence all this pain and suffering. From that day, you begin something.</span></p>
+</blockquote>"""
